@@ -3,9 +3,8 @@
     <b>Hey 👋, I just like to build things here. Currently focusing on web development and low-level with Rust.</b>
   </p>
 </div>
----
 
-### 🛠️ Tech Stack & Tools
+---
 
 #### Languages
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
