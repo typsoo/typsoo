@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-    <b>I just build things here. Currently focusing on web development and low-level with Rust.</b>
+    <b>I just build things here. Currently focusing on web and low-level with Rust.</b>
   </p>
 </div>
 
